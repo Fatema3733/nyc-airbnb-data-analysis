@@ -65,7 +65,16 @@ These steps ensured the dataset was suitable for exploratory data analysis.
 - `airbnb_analysis_final.ipynb` – main analysis notebook
 - `airbnb_analysis_pivot_tables.xlsx` – additional analysis using Excel pivot tables
 
----
+- ---
+
+- ## Excel Analysis
+
+The Excel pivot tables and charts are included in the file:
+
+`airbnb_analysis_pivot_tables.xlsx`
+
+Note: GitHub may not preview this file due to its size. Please download it to view the full analysis.
+
 
 ## Notes
 
